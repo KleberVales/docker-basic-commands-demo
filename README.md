@@ -84,3 +84,5 @@ Create an index.html in the demo/ folder:
 </html>
 ```
 
+## 🏃 How to Run
+
