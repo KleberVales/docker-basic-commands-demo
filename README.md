@@ -27,3 +27,5 @@ docker ps         # shows running containers
 docker ps -a      # shows all containers (including stopped ones)
 ```
 
+### 3. Start / Stop Containers
+
