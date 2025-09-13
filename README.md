@@ -104,3 +104,6 @@ docker build -t myapp:1.0 .
 docker run -d -p 8080:80 myapp:1.0
 ```
 
+4. Open your browser at http://localhost:8080
+
+
