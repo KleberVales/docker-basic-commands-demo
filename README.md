@@ -22,3 +22,8 @@ docker run hello-world
 
 ### 2. List Containers
 
+```bash
+docker ps         # shows running containers
+docker ps -a      # shows all containers (including stopped ones)
+```
+
