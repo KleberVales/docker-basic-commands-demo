@@ -97,3 +97,10 @@ git clone https://github.com/<your-username>/docker-basic-commands-demo.git
 cd docker-basic-commands-demo/demo
 ```
 
+3. Build and run the container:
+
+```bash
+docker build -t myapp:1.0 .
+docker run -d -p 8080:80 myapp:1.0
+```
+
