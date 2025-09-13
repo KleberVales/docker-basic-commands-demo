@@ -36,3 +36,12 @@ docker stop <container_id>
 
 ```
 
+### 4. Build an Image
+
+Inside the demo/ folder:
+
+```bash
+docker build -t myapp:1.0 .
+
+```
+
