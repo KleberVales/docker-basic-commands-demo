@@ -51,3 +51,5 @@ docker build -t myapp:1.0 .
 docker run -d -p 8080:80 myapp:1.0
 ```
 
+### 6. Remove Containers and Images
+
