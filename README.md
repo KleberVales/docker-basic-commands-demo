@@ -60,3 +60,13 @@ docker rmi <image_id>
 
 ## 📂 Demo Dockerfile
 
+The demo/Dockerfile creates a simple container with Nginx:
+
+```bash
+# Use official Nginx image
+FROM nginx:latest
+
+# Copy custom HTML file to container
+COPY index.html /usr/share/nginx/html/index.html
+```
+
