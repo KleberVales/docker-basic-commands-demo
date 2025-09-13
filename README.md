@@ -53,3 +53,8 @@ docker run -d -p 8080:80 myapp:1.0
 
 ### 6. Remove Containers and Images
 
+```bash
+docker rm <container_id>
+docker rmi <image_id>
+```
+
