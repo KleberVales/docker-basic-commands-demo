@@ -14,3 +14,5 @@ Containers are lightweight, portable, and faster compared to virtual machines.
 
 ## 📌 Docker Basic Commands
 
+### 1. Run a Container
+
