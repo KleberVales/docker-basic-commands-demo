@@ -70,3 +70,5 @@ FROM nginx:latest
 COPY index.html /usr/share/nginx/html/index.html
 ```
 
+Create an index.html in the demo/ folder:
+
