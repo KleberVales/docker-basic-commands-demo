@@ -6,3 +6,8 @@ It is part of the topic *Microservices & Containerization*.
 ---
 
 ## 🚀 What is Docker?
+
+Docker is a platform that allows developers to build, run, and manage applications inside containers.  
+Containers are lightweight, portable, and faster compared to virtual machines.
+
+---
