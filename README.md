@@ -16,3 +16,6 @@ Containers are lightweight, portable, and faster compared to virtual machines.
 
 ### 1. Run a Container
 
+```bash
+docker run hello-world
+
