@@ -29,3 +29,10 @@ docker ps -a      # shows all containers (including stopped ones)
 
 ### 3. Start / Stop Containers
 
+```bash
+
+docker start <container_id>
+docker stop <container_id>
+
+```
+
