@@ -93,3 +93,7 @@ git clone https://github.com/<your-username>/docker-basic-commands-demo.git
 
 2. Navigate into the demo folder:
 
+```bash
+cd docker-basic-commands-demo/demo
+```
+
