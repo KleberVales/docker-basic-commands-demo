@@ -91,3 +91,5 @@ Create an index.html in the demo/ folder:
 git clone https://github.com/<your-username>/docker-basic-commands-demo.git
 ```
 
+2. Navigate into the demo folder:
+
