@@ -45,3 +45,9 @@ docker build -t myapp:1.0 .
 
 ```
 
+### 5. Run the Image as a Container
+
+```bash
+docker run -d -p 8080:80 myapp:1.0
+```
+
